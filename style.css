@@ -14,11 +14,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow : hidden;
+    overflow-y: hidden;
 }
 .container{
-    /* height: 520px;
-    width: 486px; */
     height: 100%;
     width: 100%;
     display: flex;
